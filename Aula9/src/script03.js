@@ -20,6 +20,6 @@ console.log(fConvertido);
 // Utilizando métodos de comparação em BigInt
 let g = 100n;
 let h = 90n;
-let exComparacao = (g===h);
+let exComparacao = (g === h );
 console.log(exComparacao);
 
