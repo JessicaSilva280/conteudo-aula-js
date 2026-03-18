@@ -20,8 +20,8 @@ let verificaExistenciaItem = times.includes("Palmeiras");
 console.log(verificaExistenciaItem);
 
 // Utilizando o método find()
-const number = [4 , 6, 83, 64, 2, 17];
-let encontrarMaior =  number.find(verificaValor);
+const number = [4, 6, 83, 64, 2, 17];
+let encontrarMaior = number.find(verificaValor);
 
 function verificaValor(valor) {
   return valor > 50;
