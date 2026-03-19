@@ -5,4 +5,4 @@ elemento1.innerHTML = "Somente a dor coletiva gera união.";
 
 // Alterando atributos
 const elemento = document.querySelector(".foto");
-elemento.src = "Ata_meme.jpg";
+elemento.src = "ata_meme.jpg";
